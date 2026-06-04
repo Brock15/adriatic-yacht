@@ -201,7 +201,7 @@ function PartnersPage() {
                 </div>
                 {status === "error" && (
                   <p className="text-sm text-muted-foreground">
-                    Something went wrong. Please try again or write to us directly at concierge@adriata.com.
+                    Something went wrong. Please try again or write to us directly at concierge@adriata.us.
                   </p>
                 )}
                 <div className="border-t border-border pt-8 text-right">

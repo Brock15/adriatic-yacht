@@ -33,7 +33,7 @@ export function SiteFooter() {
               Highland Park Village<br />
               Dallas, Texas 75205<br /><br />
               +1 (469) 842-4165<br />
-              concierge@adriata.com
+              concierge@adriata.us
             </address>
           </div>
         </div>

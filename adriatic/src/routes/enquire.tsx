@@ -36,7 +36,7 @@ function EnquirePage() {
               </div>
               <div>
                 <div className="text-[0.6rem] tracking-[0.3em] text-muted-foreground">CONCIERGE</div>
-                <div className="mt-2 font-serif text-xl">concierge@adriata.com</div>
+                <div className="mt-2 font-serif text-xl">concierge@adriata.us</div>
               </div>
               <div>
                 <div className="text-[0.6rem] tracking-[0.3em] text-muted-foreground">DIRECT</div>
