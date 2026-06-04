@@ -14,6 +14,7 @@ export function SiteHeader() {
     { to: "/fleet", label: "The Fleet" },
     { to: "/destinations", label: "Destinations" },
     { to: "/maison", label: "The Maison" },
+    { to: "/partners", label: "Partners" },
     { to: "/enquire", label: "Enquire" },
   ] as const;
 
@@ -28,7 +29,7 @@ export function SiteHeader() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5 md:px-10 md:py-6">
         <Link to="/" className="group flex items-baseline gap-2">
           <span
-            className={`font-serif text-2xl tracking-[0.18em] md:text-[1.65rem] ${
+            className={`font-serif font-semibold text-2xl tracking-[0.18em] md:text-[1.65rem] ${
               scrolled ? "text-[color:var(--ink)]" : "text-[color:var(--ivory)]"
             }`}
           >

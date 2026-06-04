@@ -22,6 +22,7 @@ export function SiteFooter() {
               <li><Link to="/maison" className="hover:text-[color:var(--brass-soft)]">Our Story</Link></li>
               <li><Link to="/fleet" className="hover:text-[color:var(--brass-soft)]">The Fleet</Link></li>
               <li><Link to="/destinations" className="hover:text-[color:var(--brass-soft)]">Destinations</Link></li>
+              <li><Link to="/partners" className="hover:text-[color:var(--brass-soft)]">Vessel Partners</Link></li>
               <li><Link to="/enquire" className="hover:text-[color:var(--brass-soft)]">Private Enquiries</Link></li>
             </ul>
           </div>

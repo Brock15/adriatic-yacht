@@ -55,11 +55,11 @@ function Index() {
                 MMXXVI · MEDITERRANEAN & BEYOND
               </span>
             </div>
-            <h1 className="font-serif text-5xl leading-[1.05] md:text-7xl lg:text-[5.5rem]">
+            <h1 className="font-serif font-semibold text-5xl leading-[1.05] md:text-7xl lg:text-[5.5rem]">
               The sea, kept<br />
-              <em className="font-light italic text-[color:var(--brass-soft)]">in confidence.</em>
+              <em className="italic text-[color:var(--brass-soft)]">in confidence.</em>
             </h1>
-            <p className="mt-8 max-w-xl font-serif text-xl italic leading-relaxed text-[color:var(--ivory)]/85 md:text-2xl">
+            <p className="mt-8 max-w-xl font-serif font-semibold text-xl italic leading-relaxed text-[color:var(--ivory)]/85 md:text-2xl">
               Forty summers spent learning the quiet harbours of the Mediterranean.
               A small fleet, a smaller guest list, and a season chartered entirely for you.
             </p>
