@@ -38,8 +38,8 @@ function MaisonPage() {
               <p>
                 Adriata was founded in 1987 by James Whitfield, a naval architect
                 who had spent two decades designing racing yachts in Newport.
-                He never built a vessel himself — instead, he built a chartering
-                service, quietly assembling a fleet of privately-owned boats that
+                He stepped away from design and switched to the charter business,
+                quietly assembling a fleet of privately-owned boats that
                 American families could experience as their own.
               </p>
               <p>
@@ -62,7 +62,7 @@ function MaisonPage() {
                 <div className="mt-2 text-[0.6rem] tracking-[0.3em] text-muted-foreground">VESSELS</div>
               </div>
               <div>
-                <div className="font-serif text-5xl text-[color:var(--brass)]">62</div>
+                <div className="font-serif text-5xl text-[color:var(--brass)]">34</div>
                 <div className="mt-2 text-[0.6rem] tracking-[0.3em] text-muted-foreground">GUEST FAMILIES</div>
               </div>
             </div>
