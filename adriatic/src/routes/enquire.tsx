@@ -26,7 +26,7 @@ function EnquirePage() {
               <em className="text-[color:var(--brass)]">correspondence.</em>
             </h1>
             <p className="mt-8 text-lg leading-relaxed text-muted-foreground">
-              Catherine and our concierge in Dallas read every enquiry personally.
+              Mark and our concierge in Dallas read every enquiry personally.
               A reply, by hand, typically follows within two working days.
             </p>
             <div className="mt-12 space-y-6 border-t border-border pt-10 text-sm">
@@ -51,7 +51,7 @@ function EnquirePage() {
                 <div className="font-serif text-6xl text-[color:var(--brass)]">✦</div>
                 <h2 className="mt-6 font-serif text-3xl italic">Received with thanks.</h2>
                 <p className="mt-4 text-muted-foreground">
-                  Catherine will be in correspondence shortly.
+                  Mark will be in correspondence shortly.
                 </p>
               </div>
             ) : (

@@ -5,7 +5,7 @@ export const Route = createFileRoute("/maison")({
   head: () => ({
     meta: [
       { title: "The Maison — Adriata" },
-      { name: "description", content: "Founded in Dallas in 1987 by a former naval architect. A small, family-held maison curating private yacht charters worldwide, now run by his three children." },
+      { name: "description", content: "Founded in Dallas in 1987 by a former naval architect. A small, family-held maison curating private yacht charters worldwide, now run by his three sons." },
       { property: "og:title", content: "The Adriata Maison" },
       { property: "og:description", content: "A family-held house of the sea, since 1987." },
     ],
@@ -44,8 +44,8 @@ function MaisonPage() {
               </p>
               <p>
                 Forty summers later, the house is still in the family. James's
-                daughter Catherine runs the charter desk from Dallas, while his two
-                sons manage fleet operations and captain relations. Three captains
+                eldest son Mark now leads the maison from Dallas, while his two
+                brothers manage fleet operations and captain relations. Three captains
                 and a single concierge in Fort Lauderdale round out a team that
                 has never published a brochure. Our guests find us by introduction,
                 and we accept a small number of new families each year.

@@ -96,7 +96,7 @@ function Index() {
             </h2>
             <p className="mt-10 max-w-2xl text-lg leading-relaxed text-muted-foreground">
               Adriata is a small, family-held maison founded in Dallas four decades
-              ago by a former naval architect and his daughter. We do not advertise.
+              ago by a former naval architect and his sons. We do not advertise.
               We do not list. Our guests find us by introduction.
             </p>
             <div className="mt-12 grid grid-cols-3 gap-8 border-t border-border pt-10">
